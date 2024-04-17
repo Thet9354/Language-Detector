@@ -1,4 +1,4 @@
-### Language Detector Script Readme
+### Language Detector Script
 
 #### Overview:
 This Python script utilizes the `langdetect` module to identify the language of entered text. It provides a user-friendly Graphical User Interface (GUI) using `tkinter`, featuring labels, buttons, and an entry field. Users can input text, and upon submission, the script detects the language and displays the result on the GUI.
